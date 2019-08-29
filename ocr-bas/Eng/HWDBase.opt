@@ -1,0 +1,5 @@
+[Mode]
+HW=0
+[Recog Option]
+LM CC=30
+RR Ext Rate=1.000

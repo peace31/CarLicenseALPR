@@ -1,0 +1,20 @@
+[Ambigouse Char]
+Tall Chars in Equal Pattern=CSPOWXZVィイゥエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチ
+No Tall Chars in Equal Pattern=cspowxzvビピフヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱ
+Dot Char=.
+Capital Char=ABbDdEFfGHhIJKkLlMNQRTtUY123456789ァアウェ
+No Capital Char=egmnqruyパブ
+Base Lined Chars=ABCDEFGHIKLMNORSTUVWXYZabcdefhiklmnorstuvwxz0123456789ァアィイウェエォオカガキギクグケゲコゴサシゼソタダチパヒビピブプヘベペホボポマミムメャヤョラリルレロヮワヰヱ
+Friend String=oム0@
+
+[Start And End Char]
+Capital Start=A
+Capital End=Z
+Small Start=a
+Small End=z
+
+[Russian Fuzzy]
+Russian Icratic=ペオ
+Russian Icratic And Fu=ホカユザ
+[Other Fuzzy Char]
+Type Of O=。oO0

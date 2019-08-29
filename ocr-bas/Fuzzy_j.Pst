@@ -1,0 +1,26 @@
+[Ambigouse Char]
+Equal Pattern Char=CcSsPpOoWwXxZzVvっつゃやゅゆょよゎわァアィイゥウェエォオャヤュユョヨヮッツ
+Tall Chars in Equal Pattern=CSPOWXZV'°つやゆよわアイウエオヤユヨツ●■◆
+No Tall Chars in Equal Pattern=cspowxzv,。っゃゅょゎァィゥェォャュョッ...
+
+
+Dot Char=.
+Capital Char=ABbDdEFfGHhIJKkLlMNQRTtUY123456789かがきぎくぐけげこごさざしじすずせぜそぞただちぢてでとどなにぬねのはばぱひびぴふぶぷほぼぽまみむめもらりるれろをんカガキギクグケゲサザシジスズセゼソゾタダチヂヅテデトドナネノヒビピフブプホボポマミムラリルレ
+No Capital Char=egmnqruy
+Base Lined Chars=ABCDEFGHIKLMNORSTUVWXYZabcdefhiklmnorstuvwxz0123456789
+
+[Start And End Char]
+Capital Start=A
+Capital End=Z
+Small Start=a
+Small End=z
+
+[Other Fuzzy Char]
+Type Of O=oO0。
+Type Of Line=_-
+Type Of Dot=.・
+Type Of Gata-Bar=ー_-＿一
+Type Of Gata-Ro=ロ口
+Type Of Gata-He=ヘへ
+Type Of Gata-Be=ベべ
+Type Of Gata-E=エ工

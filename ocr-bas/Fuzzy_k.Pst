@@ -1,0 +1,18 @@
+[Ambigouse Char]
+Equal Pattern Char=CcSsPpOoWwXxZzVv
+Dot Char=.
+Capital Char=ABbDdEFfGHhIJKkLlMNQRTtUY123456789
+No Capital Char=egmnqruy
+Equal Pattern English Char=CcSsPpOoWwXxZzVv
+Tall Chars in Equal Pattern=CSPOWXZV'
+No Tall Chars in Equal Pattern=cspowxzv,
+Base Lined Chars=ABCDEFGHIKLMNORSTUVWXYZabcdefhiklmnorstuvwxz0123456789
+
+[Start And End Char]
+Capital Start=A
+Capital End=Z
+Small Start=a
+Small End=z
+
+[Other Fuzzy Char]
+Type Of O=oO0

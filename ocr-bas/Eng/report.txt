@@ -1,0 +1,11 @@
+C:\###SaudiLPR\Database\db_split20150726\
+2015/07/26/ 17:03:52
+PRT
+F	:	G
+Adv F
+6 63 S4 0.40
+SD/RD	:	40/20
+Use S F
+Resz
+Bias = 0.25
+SMC Grouping
